@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I am Unnayan Singh</h1>
-<h3 align="center">🚀 CSE (Cyber Security) | Software Developer | Full Stack Developer | Data Analyst</h3>
+<h3 align="center">🚀 CSE (Cyber Security) | Full-Stack Developer | Data Analyst | Building AI-Powered Solutions</h3>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Passionate+Problem+Solver;Full+Stack+Developer;Cyber+Security+Explorer;Always+Learning&center=true&width=500&height=45" />
 </p>
@@ -8,23 +8,47 @@
 
 ## 🧠 About Me
 - B.Tech in Computer Science and Engineering (Cyber Security) @ PSIT Kanpur (2022–2026)  
-- Tech-savvy developer passionate about full stack development, automation, and secure cloud-native solutions  
-- Love analyzing data to extract insights and drive business decisions  
+- Full-stack developer with hands-on experience building responsive apps using **React.js**, **Python**, **FastAPI/Flask**, and **Node.js/Express.js**  
+- Enjoy analyzing data using **Power BI**, SQL, Pandas, NumPy, Matplotlib, and Seaborn to build dashboards and drive decisions  
 - Strong foundation in version control, agile collaboration, and modern tech stacks  
+- Currently seeking opportunities as a **Software Engineer, Full-Stack Developer, Frontend Developer, Python Developer, or Data Analyst**  
+
+---
+
+## 💼 Experience
+**Frontend Web Developer** – *Edunet Foundation* (Aug 2025 – Sep 2025)
+- Developed responsive web applications using React.js, HTML, CSS, and JavaScript  
+- Integrated REST APIs and built reusable UI components  
+- Collaborated using Git and GitHub while following modern development practices  
+
+**SDE Intern** – *Bluestock™* (May 2025 – Jun 2025)
+- Assisted in developing web application features and debugging issues  
+- Worked with JavaScript, React, and backend APIs  
+- Participated in testing, code reviews, and feature implementation  
 
 ---
 
 ## 🛠️ Tech Stack
 **Languages**: Python, C++  
 **Frontend**: HTML, CSS, JavaScript, React.js  
-**Backend**: Node.js  
-**Databases**: MySQL, Oracle  
-**Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Pillow, OpenCV, Tkinter  
-**Specialties**: Data Analysis, API Integration, Networking Concepts  
+**Backend**: Node.js, Express.js, FastAPI, Flask  
+**Databases**: PostgreSQL, MySQL, MongoDB, Oracle  
+**Data & BI**: Power BI, SQL, Pandas, NumPy, Matplotlib, Seaborn  
+**Libraries**: Pillow, OpenCV, Tkinter  
+**Specialties**: Data Analysis, Dashboard Building, KPI Reporting, API Integration, Networking Concepts  
 
 ---
 
 ## 📌 Projects
+### CareerPilot AI
+- AI-powered career intelligence platform with resume analysis, job matching, skill-gap detection, personalized learning roadmaps, interview preparation, analytics dashboards, and an AI career mentor  
+
+### Campus Recruitment Analytics Dashboard
+- Interactive **Power BI** dashboard analyzing placement rates, salary trends, hiring patterns, department-wise performance, and technical skill correlations  
+
+### NoteShelf
+- Full-stack notes-sharing platform enabling users to upload, browse, download, and manage study materials through an admin dashboard  
+
 ### HushImage - GUI
 - Secure message hiding in images using **Python**, **Tkinter**, **MySQL**, and **SHA‑256**  
 - GUI-based tool with message logging and export to PDF/CSV  
@@ -37,6 +61,9 @@
 - Performed EDA on 10K+ retail records  
 - Built insights on monthly trends, top regions, discount/profit correlation  
 
+### Weather Dashboard
+- Responsive weather application with real-time forecasts, geolocation, and API integration  
+
 ### Mental Health Companion *(WIP)*
 - An interactive platform to track mood, reflect with AI-powered journal prompts, and visualize mental wellness over time  
 - Gamified experience to encourage consistency & emotional engagement  
@@ -48,13 +75,20 @@
 - Tracks task progress with an interactive progress bar  
 - **Live Demo:** [DoMate Live](https://unnayansingh.github.io/DoMate)  
 
+### Personal Portfolio
+- Portfolio website showcasing my projects, skills, certifications, and achievements  
+
 ---
 
 ## 📜 Certifications
+- Oracle Cloud Infrastructure 2025 – Certified Generative AI Professional  
+- Oracle Cloud Infrastructure 2025 – Certified DevOps Professional  
+- Oracle AI Cloud Database Services 2025 – Certified Professional  
+- Deloitte Australia – Data Analytics Job Simulation  
+- Introduction to Computers and Operating Systems and Security  
 - Full‑Stack Web Development Bootcamp – *Udemy*  
 - DBMS – *Infosys Springboard*  
 - Software Engineering Simulation – *Accenture (Forage)*  
-- Data Analytics Job Simulation – *Deloitte (Forage)*  
 - Data Visualization – *Tata Forage*  
 - Intro to Generative AI – *Google Cloud via Simplilearn*  
 - AWS Cloud Practitioner Essentials – *SkillUp*  
