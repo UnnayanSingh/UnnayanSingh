@@ -1,112 +1,100 @@
-<h1 align="center">Hi 👋, I am Unnayan Singh</h1>
-<h3 align="center">🚀 CSE (Cyber Security) | Full-Stack Developer | Data Analyst | AI Solutions Builder</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Passionate+Problem+Solver;Full+Stack+Developer;Cyber+Security+Explorer;Data+%26+AI+Enthusiast;Always+Learning&center=true&width=500&height=45" />
-</p>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=800&color=00F7A1&center=true&vCenter=true&width=600&height=40&lines=unnayan%40dev+~+%24+whoami;Full-Stack+Developer;Data+%26+AI+Enthusiast;Cybersecurity+Explorer" alt="Typing SVG" />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/unnayan-singh-2b9062289/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:unnayansingh2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=UnnayanSingh&style=for-the-badge&color=blue" alt="Profile Views" />
-</p>
+<br/>
 
-## 🧠 About Me
+# Building scalable full-stack systems.
 
-- 🎓 B.Tech in Computer Science & Engineering (Cyber Security) @ PSIT Kanpur (2022–2026)
-- 💻 Full-stack developer building scalable, responsive apps with **React.js**, **Python**, **FastAPI/Flask**, and **Node.js/Express.js**
-- 📊 Data enthusiast — turning raw data into insights with **Power BI**, **SQL**, **Pandas**, **NumPy**, and **Matplotlib/Seaborn**
-- 🔐 Cybersecurity background with hands-on experience in secure application design
-- 🌱 Currently exploring AI-powered products and agentic tooling
-- 💼 Open to roles as **Software Engineer**, **Full-Stack / Frontend Developer**, **Python Developer**, or **Data Analyst**
+`React.js` · `Python` · `FastAPI` · `Power BI` · `PostgreSQL`
+
+**Unnayan Singh** · Full-Stack Development · Data Analytics · Cybersecurity
+
+<img src="https://komarev.com/ghpvc/?username=UnnayanSingh&style=flat-square&color=00F7A1&label=profile+views" alt="Profile Views" />
+<a href="https://www.linkedin.com/in/unnayan-singh-2b9062289/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:unnayansingh2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-Reach%20Out-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+
+</div>
+
+---
+
+## 🧠 About
+
+- 🎓 B.Tech CSE (Cyber Security) @ PSIT Kanpur (2022–2026)
+- 💻 Full-stack developer — React.js, Python, FastAPI/Flask, Node.js/Express.js
+- 📊 Data-driven — Power BI, SQL, Pandas, NumPy for dashboards & insights
+- 🔐 Cybersecurity foundation applied to secure app design
+- 💼 Open to: Software Engineer · Full-Stack / Frontend Developer · Python Developer · Data Analyst
 - 📫 Always open to connecting with recruiters, developers, and data professionals
 
 ## 💼 Experience
 
 **Frontend Web Developer** — *Edunet Foundation* (Aug 2025 – Sep 2025)
-- Built responsive web applications using React.js, HTML, CSS, and JavaScript
-- Integrated REST APIs and built reusable UI components
-- Collaborated using Git/GitHub following modern dev practices
+Built responsive apps with React.js, integrated REST APIs, collaborated via Git/GitHub.
 
 **SDE Intern** — *Bluestock™* (May 2025 – Jun 2025)
-- Developed web application features and debugged issues using JavaScript, React, and backend APIs
-- Participated in testing, code reviews, and feature implementation
+Developed features and debugged issues with JavaScript, React, and backend APIs.
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python, C++, JavaScript
-**Frontend:** HTML, CSS, JavaScript, React.js
-**Backend:** Node.js, Express.js, FastAPI, Flask
-**Databases:** PostgreSQL, MySQL, MongoDB, Oracle
-**Data & BI:** Power BI, SQL, Pandas, NumPy, Matplotlib, Seaborn
-**Other Libraries:** Pillow, OpenCV, Tkinter
-**Specialties:** Data Analysis, Dashboard Building, KPI Reporting, API Integration, Networking Concepts
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+</div>
 
 ## 📌 Featured Projects
 
-### CareerPilot AI
-AI-powered career intelligence platform with resume analysis, job matching, skill-gap detection, personalized learning roadmaps, interview preparation, analytics dashboards, and an AI career mentor.
-
-### Campus Recruitment Analytics Dashboard
-Interactive **Power BI** dashboard analyzing placement rates, salary trends, hiring patterns, department-wise performance, and technical skill correlations.
-
-### NoteShelf
-Full-stack notes-sharing platform enabling users to upload, browse, download, and manage study materials through an admin dashboard.
-
-### HushImage
-Secure image steganography app with authentication, encryption, and hidden message management — built with **Python**, **Flask**, **MySQL**, and **SHA-256**. GUI version includes message logging and PDF/CSV export.
-
-### Weather Dashboard
-Responsive weather application with real-time forecasts, geolocation, and API integration.
-
-### DoMate – Task Log List
-Interactive task manager with adding/editing/deleting tasks, drag-and-drop ordering, priority levels, due dates, dark/light mode, and PDF/CSV import-export.
-**🔗 Live Demo:** [DoMate](https://unnayansingh.github.io/DoMate)
-
-### Online Crime Reporting System
-Platform to report cybercrime online with user & admin interfaces, case tracking, and status monitoring.
-
-### Mental Health Companion *(WIP)*
-Interactive platform to track mood, reflect with AI-powered journal prompts, and visualize mental wellness over time. Built with **React.js**, **Node.js**, and the **Gemini API**.
-
-### Personal Portfolio
-Portfolio website showcasing projects, skills, certifications, and achievements.
+| Project | Description | Tech |
+|---|---|---|
+| **CareerPilot AI** | AI career platform — resume analysis, job matching, skill-gap detection, learning roadmaps | React, Python, AI |
+| **Campus Recruitment Analytics Dashboard** | Power BI dashboard on placement rates, salary trends, hiring patterns | Power BI |
+| **NoteShelf** | Full-stack notes-sharing platform with admin dashboard | React, Node.js |
+| **HushImage** | Secure image steganography with auth & encryption | Python, Flask, MySQL, SHA-256 |
+| **Weather Dashboard** | Real-time forecasts with geolocation & API integration | JS, API |
+| **[DoMate](https://unnayansingh.github.io/DoMate)** | Task manager — drag-and-drop, priorities, PDF/CSV export | HTML, CSS, JS |
+| **Online Crime Reporting System** | Cybercrime reporting with case tracking | Full-Stack |
+| **Mental Health Companion** *(WIP)* | Mood tracking with AI journal prompts | React, Node.js, Gemini API |
 
 ## 📜 Certifications
 
-- Oracle Cloud Infrastructure 2025 Certified Generative AI Professional
-- Oracle Cloud Infrastructure 2025 Certified DevOps Professional
-- Oracle AI Cloud Database Services 2025 Certified Professional
-- Deloitte Australia – Data Analytics Job Simulation
-- Introduction to Computers, Operating Systems and Security
-- Full-Stack Web Development Bootcamp – *Udemy*
-- DBMS – *Infosys Springboard*
-- Software Engineering Simulation – *Accenture (Forage)*
-- Data Visualization – *Tata Forage*
-- Intro to Generative AI – *Google Cloud via Simplilearn*
-- AWS Cloud Practitioner Essentials – *SkillUp*
+- Oracle Cloud Infrastructure 2025 — Generative AI Professional
+- Oracle Cloud Infrastructure 2025 — DevOps Professional
+- Oracle AI Cloud Database Services 2025 — Certified Professional
+- Deloitte Australia — Data Analytics Job Simulation
+- Full-Stack Web Development Bootcamp — Udemy
+- AWS Cloud Practitioner Essentials — SkillUp
 
 ## 🏆 Achievements
 
-- 4-Star Coder in Problem Solving – *HackerRank*
-- Cybersecurity Skills Certified – *Tech Mahindra*
-- Agentblazer Champion 2025 – *Salesforce Trailhead (AI & Agentforce Skills)*
+- 4-Star Coder in Problem Solving — HackerRank
+- Cybersecurity Skills Certified — Tech Mahindra
+- Agentblazer Champion 2025 — Salesforce Trailhead
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UnnayanSingh&show_icons=true&theme=radical" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UnnayanSingh&layout=compact&theme=radical" height="180px"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=UnnayanSingh&theme=radical" height="180px"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=UnnayanSingh&show_icons=true&theme=radical&hide_border=true" height="165px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UnnayanSingh&layout=compact&theme=radical&hide_border=true" height="165px"/>
 
-## 📬 Connect with Me
+<img src="https://streak-stats.demolab.com/?user=UnnayanSingh&theme=radical&hide_border=true" height="165px"/>
 
-<p>
-  <a href="mailto:unnayansingh2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/unnayan-singh-2b9062289/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/UnnayanSingh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+</div>
+
+---
+
+<div align="center">
+
+📫 **unnayansingh2005@gmail.com** · [LinkedIn](https://www.linkedin.com/in/unnayan-singh-2b9062289/) · [GitHub](https://github.com/UnnayanSingh)
+
+</div>
