@@ -142,6 +142,9 @@ Portfolio website showcasing my projects, skills, certifications & achievements
 - Oracle AI Cloud Database Services 2025 – Certified Professional
 - Deloitte Australia – Data Analytics Job Simulation
 - Introduction to Computers and Operating Systems and Security
+- SQL Injection Attacks – *EC-Council*
+- Ultimate Job-Ready AI-Powered Data Analytics Course – *CodeWithHarry*
+- ChatGPT & AI Tools Workshop – *be10x*
 - Full-Stack Web Development Bootcamp – Udemy
 - DBMS – Infosys Springboard
 - Software Engineering Simulation – Accenture (Forage)
@@ -157,6 +160,8 @@ Portfolio website showcasing my projects, skills, certifications & achievements
 - 4-Star Coder in Problem Solving – HackerRank
 - Cybersecurity Skills Certified – Tech Mahindra
 - Agentblazer Champion 2025 – Salesforce Trailhead (AI & Agentforce Skills)
+- GHCI 2025 Hackathon – Participation Certificate
+- Adobe India Hackathon – Participation Certificate
 </details>
 
 ## 📈 GitHub Stats
