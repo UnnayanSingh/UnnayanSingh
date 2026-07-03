@@ -9,7 +9,6 @@ CSE (Cyber Security) · Full-Stack Developer · Data Analyst
 <img src="https://komarev.com/ghpvc/?username=UnnayanSingh&style=flat-square&color=00F7A1&label=views" />
 <a href="https://www.linkedin.com/in/unnayan-singh-2b9062289/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:unnayansingh2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-<a href="https://unnayansingh.github.io/DoMate"><img src="https://img.shields.io/badge/Live%20Demo-DoMate-00F7A1?style=flat-square&logo=vercel&logoColor=black" /></a>
 
 </div>
 
@@ -175,12 +174,6 @@ Portfolio website showcasing my projects, skills, certifications & achievements
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=UnnayanSingh&theme=react-dark&hide_border=true" width="95%"/>
 
-</div>
-
-## 🏅 Trophy Case
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=UnnayanSingh&theme=radical&no-frame=true&row=1&column=6" />
 </div>
 
 ---
