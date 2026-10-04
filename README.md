@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  Kanpur, Uttar Pradesh |
+  Hardoi, Uttar Pradesh |
   <a href="https://unnayansingh.in">Portfolio</a> |
   <a href="https://www.linkedin.com/in/unnayan-singh-2b9062289/">LinkedIn</a> |
   <a href="mailto:unnayansingh2005@gmail.com">Email</a>
